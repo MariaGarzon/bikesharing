@@ -18,7 +18,8 @@ The analysis answered four main points:
 
 The graph shows the length of time for every bike ride during the month of August demonstrating most bike rides are between 2 and 15 minutes.
 
-![checkout_times_fo_users](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Checkout_Times_for_Users.png)
+![checkout_times_fo_users](https://github.com/MariaGarzon/bikesharing/blob/278096e810316e847f56543c58ebec4da3065dcc/Visuals/Checkout%20Times%20by%20Gender.png)
+
 
 ### Length of time that bikes are checked out for each gender
 
