@@ -18,17 +18,17 @@ The analysis answered four main points:
 
 The graph shows the length of time for every bike ride during the month of August demonstrating most bike rides are between 2 and 15 minutes.
 
-![checkout_times_fo_users](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Checkout Times for Users.png)
+![checkout_times_fo_users](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Checkout_Times_for_Users.png)
 
 ### Length of time that bikes are checked out for each gender
 
 The graph shows the length of time for every bike ride during the month of August showing most bike rides are conducted by men.
 
-![checkout_times_by_gender](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Checkout Times by Gender.png)
+![checkout_times_by_gender](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Checkout_Times_by_Gender.png)
 
 To further support this graph, the visualization below shows that the most common user is a male subscriber.
 
-![user_trips_by_gender](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/User Trips by Gender.png)
+![user_trips_by_gender](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/User_Trips_by_Gender.png)
 
 ### What are the most common starting and ending points?
 
@@ -42,11 +42,11 @@ The maps below show the top locations where riders are biking from and to. The f
 
 The visualizations below shows bike usage follows a traditional commuting time of high peaks during 5:00 pm to 7:00 pm  during the week whereas weekends have a gradual use throughout the day.
 
-![trips_by_weekday_per_hour](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Trips by Weekday.png)
+![trips_by_weekday_per_hour](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Trips_by_Weekday.png)
 
 To further these findings, this visualization shows a similar patterns when broken down between genders.
 
-![trips_by_gender](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Trips by Gender.png)
+![trips_by_gender](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/Trips_by_Gender.png)
 
 ## Summary
 
