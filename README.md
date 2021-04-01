@@ -35,9 +35,9 @@ To further support this graph, the visualization below shows that the most commo
 
 The maps below show the top locations where riders are biking from and to. The first thing to note is that most rides start in the most populous areas in mid and lower Manhattan. Second, due to shorter ride times, the ending locations are also in those same populous areas.
 
-![top_starting_locations](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/top_starting_locations.png)
+![top_starting_locations](https://github.com/MariaGarzon/bikesharing/blob/80a5351cce33b49c5f4e17a407162c9d8288595e/Visuals/Top%20Starting%20Locations.png)
 
-![top_ending_locations](https://github.com/MariaGarzon/bikesharing/edit/main/Visuals/top_ending_locations.png)
+![top_ending_locations](https://github.com/MariaGarzon/bikesharing/blob/80a5351cce33b49c5f4e17a407162c9d8288595e/Visuals/Top%20Ending%20Locations.png)
 
 ### When are riders using the bikes?
 
@@ -57,6 +57,6 @@ Based on above analysis, to create a succesful citi bike program in De Moines, w
 2. Position bikes in the most used areas
 3. Offering incentives during traditional cummuting hours during the week to make bikes more accessible
 
-For a visual summari please follow the link below
+For a visual summary please follow the link below:
 
 [link to dashboard](https://prod-useast-b.online.tableau.com/#/site/alimentaria/workbooks/53369?:origin=card_share_link)
