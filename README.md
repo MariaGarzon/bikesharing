@@ -59,4 +59,4 @@ Based on above analysis, to create a succesful citi bike program in De Moines, w
 
 For a visual summari please follow the link below
 
-[link to dashboard] (https://prod-useast-b.online.tableau.com/#/site/alimentaria/workbooks/53369?:origin=card_share_link)
+[link to dashboard](https://prod-useast-b.online.tableau.com/#/site/alimentaria/workbooks/53369?:origin=card_share_link)
